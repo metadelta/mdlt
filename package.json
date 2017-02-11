@@ -1,6 +1,6 @@
 {
   "name": "mdlt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A command-line utility for quick math.",
   "main": "mdlt.js",
   "scripts": {

@@ -23,7 +23,8 @@ An example of this is:
 ```
 mdlt derive x^2
 ```
-which returns: `2 x`.  
+which returns: `2 x`.
+*Note: *for more reliable processing, wrap the expression in double quotes.  
 For more commands, Mdlt's documentation can be found [here](https://github.com/aunyks/mdlt/blob/master/DOCS.md).
 ______________________________________________
 Like mdlt? [Donate Bitcoin](https://coinbase.com/aunyks) to support development!  
