@@ -2,7 +2,7 @@
 **A command-line utility for quick math.**  
 ### What is it?
 Mdlt is a lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
-
+![mdlt demo](mdlt-demo.gif)
 ### Why this?
 Well, nobody wants to boot Python, import SymPy, and type extraneous commands just to find a derivative. And, finding a decent website for math is quite a pain. *Mdlt just makes it too easy to do math!*
 
