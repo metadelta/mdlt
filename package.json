@@ -1,0 +1,35 @@
+{
+  "name": "mdlt",
+  "version": "0.0.1",
+  "description": "A command-line utility for quick math.",
+  "main": "mdlt.js",
+  "scripts": {
+    "test": "node mdlt.js derive x^2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aunyks/mdlt.git"
+  },
+  "keywords": [
+    "metadelta",
+    "cas",
+    "calculus",
+    "math",
+    "algebra",
+    "trigonometry",
+    "science"
+  ],
+  "author": "Gerald Nash (aunyks.com) <g.nash.dev@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aunyks/mdlt/issues"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "mdlt": "mdlt.js"
+  },
+  "homepage": "https://github.com/aunyks/mdlt#readme",
+  "dependencies": {
+    "metadelta": "^1.0.7"
+  }
+}
