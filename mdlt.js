@@ -17,5 +17,7 @@ if(DEBUG){
 try {
   console.log(operations[operation](input));
 }catch(err){
+  if(DEBUG)
+    console.log(err);
   console.log('Improper format.\n\nUsage:\nmdlt [operation] [expression]\nOR\nmdlt [operation] "[expression]"');
 }

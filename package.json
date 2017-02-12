@@ -1,6 +1,6 @@
 {
   "name": "mdlt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A command-line utility for quick math.",
   "main": "mdlt.js",
   "scripts": {
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/aunyks/mdlt#readme",
   "dependencies": {
-    "metadelta": "^1.0.7"
+    "metadelta": "^1.0.8"
   }
 }

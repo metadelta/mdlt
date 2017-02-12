@@ -14,6 +14,18 @@ Argument(s): The value of which the absolute value will be found
 
 Return: The absolute value of the given value  
 
+**log**
+
+*Evaluate a logarithm with given base and argument*
+```
+mdlt log 2:8
+Returns:
+3
+```
+Argument(s): A base value and argument value separated by a colon (':')
+
+Return: The evaluated logarithm  
+
 **sin**
 
 *Find the sine of a value*

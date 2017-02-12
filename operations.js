@@ -16,6 +16,14 @@ module.exports = {
   arcsin: metadelta.arcsin,
   arctan: metadelta.arcsin,
   abs: metadelta.abs,
+  log: function(expression){
+    var base = expression.split(':')[0];
+    var arg  = expression.split(':')[1];
+    if(isNaN(metadelta.log(base, arg)))
+      throw new Error('Logarithm only given one argument.');
+    else
+      return metadelta.log(base, arg);
+  },
   tangent: function(expression){
     var data = expression.split('|');
     var at = parseInt(data[0]);
