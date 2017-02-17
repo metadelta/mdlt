@@ -25,11 +25,11 @@ mdlt derive x^2
 ```
 which returns: `2 x`.
 *Note:* for more reliable processing, wrap the expression in double quotes.  
-For more commands, Mdlt's documentation can be found [here](https://github.com/aunyks/mdlt/blob/master/DOCS.md).
+For more commands, Mdlt's documentation can be found [here](https://github.com/metadelta/mdlt/blob/master/DOCS.md).
 ______________________________________________
 Like mdlt? [Donate Bitcoin](https://coinbase.com/aunyks) to support development!  
 
-Built using [metadelta](https://github.com/aunyks/metadelta-js)
+Built using [metadelta](https://github.com/metadelta/metadelta-core)
 Licensed under the GNU GPLv3 license.  
 
     Copyright (C) 2017  Gerald Nash
