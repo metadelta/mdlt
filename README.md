@@ -27,7 +27,7 @@ which returns: `2 x`.
 *Note:* for more reliable processing, wrap the expression in double quotes.  
 For more commands, Mdlt's documentation can be found [here](https://github.com/metadelta/mdlt/blob/master/DOCS.md).
 ______________________________________________
-Like mdlt? [Donate Bitcoin](https://coinbase.com/aunyks) to support development!  
+Like mdlt? [Donate Bitcoin](http://www.aunyks.com/bitcoin/) to support development!  
 
 Built using [metadelta](https://github.com/metadelta/metadelta-core)
 Licensed under the GNU GPLv3 license.  
