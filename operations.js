@@ -1,4 +1,4 @@
-var metadelta = require('metadelta');
+var metadelta = require('@metadelta/core');
 
 // Define the operation map,
 // an object that maps mdlt subcommands
