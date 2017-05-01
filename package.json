@@ -1,10 +1,11 @@
 {
   "name": "mdlt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A command-line utility for quick math.",
   "main": "mdlt.js",
   "scripts": {
-    "test": "node mdlt.js derive x^2"
+    "test": "node mdlt.js derive x^2",
+    "package": "pkg -t node6-macos-x64,node6-linux-x86,node6-win-x86 --out-dir build mdlt.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,9 @@
   },
   "homepage": "https://github.com/metadelta/mdlt#readme",
   "dependencies": {
-    "metadelta": "^1.0.8"
+    "@metadelta/core": "^1.1.1"
+  },
+  "devDependencies": {
+    "pkg": "^3.0.0"
   }
 }
