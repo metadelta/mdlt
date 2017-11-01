@@ -9,6 +9,7 @@ module.exports = {
   zeroes: metadelta.zeroes,
   integrate: metadelta.integrate,
   derive: metadelta.derive,
+  differentiate: metadelta.derive,
   cos: metadelta.cos,
   sin: metadelta.sin,
   tan: metadelta.tan,
